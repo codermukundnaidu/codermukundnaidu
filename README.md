@@ -20,11 +20,26 @@ Building practical AI products, immersive digital experiences and intelligent sy
 
 <br />
 
-<img src="./ventures-terminal.svg" width="860" alt="Featured ventures: Mukund Naidu AI Solutions and VIBE TRIBE" />
+## Featured Ventures
+
+<table>
+<tr>
+<td width="170" align="center">
+<a href="https://mukundnaidu.com"><img src="./mukund-naidu-logo.jpg" width="138" alt="Mukund Naidu AI Solutions official logo" /></a>
+</td>
+<td align="left">
+<h3><a href="https://mukundnaidu.com">Mukund Naidu AI Solutions</a></h3>
+<b>Founder · Established 2026</b><br /><br />
+Building AI-powered websites, applications, automations, intelligent agents and digital systems for modern businesses.
+</td>
+</tr>
+</table>
+
+<img src="./ventures-terminal.svg" width="860" alt="Animated terminal showcase for Mukund Naidu AI Solutions and VIBE TRIBE" />
 
 <br />
 
-<img src="./contrib-heatmap.svg" width="860" alt="Animated GitHub activity graph" />
+<img src="./contrib-heatmap.svg" width="860" alt="Animated 90-day build mission tracker" />
 
 </div>
 
