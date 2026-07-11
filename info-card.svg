@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="490" height="520" viewBox="0 0 490 520">
+<defs><filter id="soft"><feGaussianBlur stdDeviation="7"/></filter></defs>
+<rect x="1" y="1" width="488" height="518" rx="18" fill="#05070b" stroke="#1d2a42"/>
+<rect x="1" y="1" width="488" height="46" rx="18" fill="#0c111b"/>
+<rect x="1" y="28" width="488" height="20" fill="#0c111b"/>
+<circle cx="22" cy="23" r="5" fill="#ff5f57"/><circle cx="40" cy="23" r="5" fill="#febc2e"/><circle cx="58" cy="23" r="5" fill="#28c840"/>
+<text x="245" y="28" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#8993a6">mukund@github:~/identity</text>
+<circle cx="455" cy="74" r="35" fill="#2f6bff" opacity=".12" filter="url(#soft)"><animate attributeName="opacity" values=".08;.20;.08" dur="4s" repeatCount="indefinite"/></circle>
+<text x="27" y="65" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#4e596b">$ whoami --verbose</text>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" dur=".25s" begin="0.10s" fill="freeze"/>
+<text x="27" y="83" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#60a5fa">identity   </text>
+<text x="137" y="83" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#f4f7ff">Mukund Naidu</text></g><g opacity="0"><animate attributeName="opacity" from="0" to="1" dur=".25s" begin="0.17s" fill="freeze"/>
+<text x="27" y="111" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#60a5fa">role       </text>
+<text x="137" y="111" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#f4f7ff">AI Product Builder</text></g><g opacity="0"><animate attributeName="opacity" from="0" to="1" dur=".25s" begin="0.24s" fill="freeze"/>
+<text x="27" y="139" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#60a5fa">focus      </text>
+<text x="137" y="139" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#f4f7ff">Full-Stack + Creative Tech</text></g><g opacity="0"><animate attributeName="opacity" from="0" to="1" dur=".25s" begin="0.31s" fill="freeze"/>
+<text x="27" y="167" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#60a5fa">status     </text>
+<text x="137" y="167" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#f4f7ff">Student &amp; Founder</text></g><g opacity="0"><animate attributeName="opacity" from="0" to="1" dur=".25s" begin="0.38s" fill="freeze"/>
+<text x="27" y="195" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#60a5fa">education  </text>
+<text x="137" y="195" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#f4f7ff">B.Tech CSE - AI &amp; ML</text></g><g opacity="0"><animate attributeName="opacity" from="0" to="1" dur=".25s" begin="0.45s" fill="freeze"/>
+<text x="27" y="223" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#60a5fa">university </text>
+<text x="137" y="223" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#f4f7ff">Dayananda Sagar University</text></g><g opacity="0"><animate attributeName="opacity" from="0" to="1" dur=".25s" begin="0.52s" fill="freeze"/>
+<text x="27" y="251" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#60a5fa">campus     </text>
+<text x="137" y="251" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#f4f7ff">Harohalli, Bengaluru</text></g><g opacity="0"><animate attributeName="opacity" from="0" to="1" dur=".25s" begin="0.59s" fill="freeze"/>
+<text x="27" y="279" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#60a5fa">ventures   </text>
+<text x="137" y="279" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#f4f7ff">MN AI Solutions / VIBE TRIBE</text></g><g opacity="0"><animate attributeName="opacity" from="0" to="1" dur=".25s" begin="0.66s" fill="freeze"/>
+<text x="27" y="307" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#60a5fa">stack      </text>
+<text x="137" y="307" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#f4f7ff">Next.js · React · TypeScript</text></g><g opacity="0"><animate attributeName="opacity" from="0" to="1" dur=".25s" begin="0.73s" fill="freeze"/>
+<text x="27" y="335" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#60a5fa">creative   </text>
+<text x="137" y="335" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#f4f7ff">Three.js · GSAP · Motion</text></g><g opacity="0"><animate attributeName="opacity" from="0" to="1" dur=".25s" begin="0.80s" fill="freeze"/>
+<text x="27" y="363" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#60a5fa">backend    </text>
+<text x="137" y="363" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#f4f7ff">Node.js · Express · Supabase</text></g><g opacity="0"><animate attributeName="opacity" from="0" to="1" dur=".25s" begin="0.87s" fill="freeze"/>
+<text x="27" y="391" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#60a5fa">ai         </text>
+<text x="137" y="391" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#f4f7ff">Agents · Automations · Integrations</text></g><g opacity="0"><animate attributeName="opacity" from="0" to="1" dur=".25s" begin="0.94s" fill="freeze"/>
+<text x="27" y="419" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#60a5fa">location   </text>
+<text x="137" y="419" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#f4f7ff">Bengaluru, India</text></g><g opacity="0"><animate attributeName="opacity" from="0" to="1" dur=".25s" begin="1.01s" fill="freeze"/>
+<text x="27" y="447" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#60a5fa">building   </text>
+<text x="137" y="447" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#f4f7ff">30 projects / 90 days</text></g>
+<path d="M27 482 H463" stroke="#1d2a42"/>
+<text x="27" y="503" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="10" fill="#8993a6">systems online</text>
+<circle cx="461" cy="499" r="4" fill="#60a5fa"><animate attributeName="opacity" values="1;.25;1" dur="1.6s" repeatCount="indefinite"/></circle>
+</svg>
