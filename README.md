@@ -1,67 +1,45 @@
 <div align="center">
 
-<table>
-<tr>
-<td valign="top"><img src="./avi-ascii.svg" width="370" alt="Animated cyber portrait of Mukund Naidu" /></td>
-<td valign="top"><img src="./info-card.svg" width="490" alt="Mukund Naidu profile information" /></td>
-</tr>
-</table>
-
-# Mukund Naidu
-
-**AI Product Builder · Full-Stack Developer · Creative Technologist**
-
-Building practical AI products, immersive digital experiences and intelligent systems that help modern businesses move faster.
-
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-mukundnaidu.com-05070b?style=for-the-badge&logo=vercel&logoColor=60A5FA)](https://mukundnaidu.com)
-[![VIBE TRIBE](https://img.shields.io/badge/VIBE_TRIBE-vibe--tribers.com-05070b?style=for-the-badge&logo=lightning&logoColor=60A5FA)](https://vibe-tribers.com)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-mukundnaidu-05070b?style=for-the-badge&logo=linkedin&logoColor=60A5FA)](https://www.linkedin.com/in/mukundnaidu/)
-[![Email](https://img.shields.io/badge/EMAIL-mukundnaidu%40vibe--tribers.com-05070b?style=for-the-badge&logo=gmail&logoColor=60A5FA)](mailto:mukundnaidu@vibe-tribers.com)
+<img src="./hero.svg" width="100%" alt="Mukund Naidu cyber profile banner" />
 
 <br />
 
-## Featured Ventures
-
-<table>
-<tr>
-<td width="170" align="center">
-<a href="https://mukundnaidu.com"><img src="./mukund-naidu-logo.jpg" width="138" alt="Mukund Naidu AI Solutions official logo" /></a>
-</td>
-<td align="left">
-<h3><a href="https://mukundnaidu.com">Mukund Naidu AI Solutions</a></h3>
-<b>Founder · Established 2026</b><br /><br />
-Building AI-powered websites, applications, automations, intelligent agents and digital systems for modern businesses.
-</td>
-</tr>
-</table>
-
-<img src="./ventures-terminal.svg" width="860" alt="Animated terminal showcase for Mukund Naidu AI Solutions and VIBE TRIBE" />
+<img src="./stack.svg" width="100%" alt="Mukund Naidu core technology stack" />
 
 <br />
 
-<img src="./contrib-heatmap.svg" width="860" alt="Animated 90-day build mission tracker" />
+<img src="./now-building.svg" width="100%" alt="Mukund Naidu now-building card with properly rendered portrait" />
+
+<br />
+
+<img src="./ventures.svg" width="100%" alt="Featured ventures: Mukund Naidu AI Solutions and VIBE TRIBE" />
+
+<br />
+
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-mukundnaidu.com-061128?style=for-the-badge&logo=vercel&logoColor=6EA8FF)](https://mukundnaidu.com)
+[![VIBE TRIBE](https://img.shields.io/badge/VIBE_TRIBE-vibe--tribers.com-061128?style=for-the-badge&logo=lightning&logoColor=6EA8FF)](https://vibe-tribers.com)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-mukundnaidu-061128?style=for-the-badge&logo=linkedin&logoColor=6EA8FF)](https://www.linkedin.com/in/mukundnaidu/)
+[![Email](https://img.shields.io/badge/EMAIL-mukundnaidu%40vibe--tribers.com-061128?style=for-the-badge&logo=gmail&logoColor=6EA8FF)](mailto:mukundnaidu@vibe-tribers.com)
 
 </div>
 
-## Building now
+## Current build queue
 
 - **AI Startup Intelligence Platform** — idea validation, competitor intelligence, MVP planning and launch workflows.
 - **AI Business Automation Platform** — practical agents and automations for modern business operations.
-- **Interactive 3D Digital Experience** — an advanced creative development showcase built with motion and WebGL.
+- **Interactive 3D Digital Experience** — advanced creative development using motion and WebGL.
 
-## 90-day build mission
+## 90-day mission
 
 **3 flagship products · 9 complete applications · 18 focused experiments**
 
-The goal is not artificial activity. Every public repository should solve a clear problem, include a strong README, screenshots, a live demo where practical and a clean development history.
-
-## Core toolkit
-
-`TypeScript` · `JavaScript` · `Python` · `Next.js` · `React` · `Node.js` · `Express.js` · `Supabase` · `Tailwind CSS` · `shadcn/ui` · `Three.js` · `React Three Fiber` · `Spline` · `Framer Motion` · `GSAP` · `AI Agents` · `Automations` · `Git` · `GitHub` · `Vercel`
-
----
+Every public repository will solve a clear problem and include a polished README, screenshots, deployment instructions and a live demo wherever practical.
 
 <div align="center">
+
+### Contribution activity
+
+<img src="https://raw.githubusercontent.com/codermukundnaidu/codermukundnaidu/output/github-contribution-grid-snake-dark.svg" alt="Mukund Naidu contribution snake" />
 
 **B.Tech CSE — Artificial Intelligence & Machine Learning**  
 Dayananda Sagar University · Harohalli, Bengaluru · 2026–2030
